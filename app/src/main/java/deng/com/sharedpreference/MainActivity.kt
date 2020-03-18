@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     companion object{
-        //const = public final static
+        //const val = public final static
         //val = private final
         private const val DATA = "DATA"
         private const val NAME = "NAME"
